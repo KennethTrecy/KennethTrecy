@@ -1,5 +1,5 @@
 # Kenneth Trecy Tobias
-A developer specializing in back-end development and testing. Yet, I can also do front-end work.
+A developer specializing in back-end development and testing. Yet, he can also do front-end work.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
