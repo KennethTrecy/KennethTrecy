@@ -130,7 +130,7 @@ A developer specializing in back-end development and testing. Yet, he can also d
 
 ---
 
-<small>The logos were created from [`devicon` repository] maintained by [konpa] and [other
+<small>The logos were came from [`devicon` repository] maintained by [konpa] and [other
 contributors] licensed under [MIT].</small>
 
 [MIT]: https://github.com/devicons/devicon/blob/master/LICENSE
