@@ -116,6 +116,9 @@ A developer specializing in back-end development and testing. Yet, he can also d
 
 ## Stats
 <div align="center">
+	<a href="https://git.io/streak-stats">
+		<img src="https://streak-stats.demolab.com?user=KennethTrecy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=1A1B27&currStreakLabel=6C9FF4&ring=628FDA&currStreakNum=628FDA&fire=628FDA"/>
+	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
 	</a>
