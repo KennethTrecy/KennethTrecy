@@ -171,6 +171,9 @@ A developer specializing in back-end development and testing. Yet, he can also d
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
 	</a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=KennethTrecy&theme=tokyonight&no-frame=true"/>
+	</a>
 </div>
 
 ---
