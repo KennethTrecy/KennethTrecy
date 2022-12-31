@@ -162,17 +162,17 @@ A developer specializing in back-end development and testing. Yet, he can also d
 ## Stats
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="auto" width="350px" alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
+		<img height="auto" width="480px" alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="auto" width="225px" alt="Language stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
+		<img height="auto" width="350px" alt="Language stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
 	</a>
 	<br/>
 	<a href="https://git.io/streak-stats">
-		<img height="auto" width="350px" alt="Steak stat" src="https://streak-stats.demolab.com?user=KennethTrecy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=1A1B27&currStreakLabel=6C9FF4&ring=628FDA&currStreakNum=628FDA&fire=628FDA"/>
+		<img height="auto" width="470px" alt="Steak stat" src="https://streak-stats.demolab.com?user=KennethTrecy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=1A1B27&currStreakLabel=6C9FF4&ring=628FDA&currStreakNum=628FDA&fire=628FDA"/>
 	</a>
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img height="auto" width="250px" alt="Stat trophy" src="https://github-profile-trophy.vercel.app/?username=KennethTrecy&theme=tokyonight&no-frame=true&row=2&column=4"/>
+		<img height="auto" width="370px" alt="Stat trophy" src="https://github-profile-trophy.vercel.app/?username=KennethTrecy&theme=tokyonight&no-frame=true&row=2&column=4"/>
 	</a>
 </div>
 
