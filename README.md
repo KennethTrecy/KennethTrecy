@@ -37,10 +37,10 @@ A developer specializing in back-end development and testing. Yet, he can also d
 		<img title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
 	</a>
 	<a href="https://www.sqlite.org/index.html">
-		<img title="MongoDB" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
+		<img title="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
 	</a>
 	<a href="https://sequelize.org/">
-		<img title="MongoDB" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white">
+		<img title="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white">
 	</a>
 </div>
 
