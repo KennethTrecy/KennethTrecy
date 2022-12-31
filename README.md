@@ -74,10 +74,18 @@ A developer specializing in back-end development and testing. Yet, he can also d
 
 ### Languages (Specialization)
 <div align="center">
-	<img title="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
-	<img title="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-	<img title="ES" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-	<img title="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+	<a href="https://www.markdownguide.org/">
+		<img title="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white">
+	</a>
+	<a href="https://html.spec.whatwg.org/">
+		<img title="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+		<img title="ES" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/css">
+		<img title="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+	</a>
 	<a href="https://www.php.net/">
 		<img title="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
 	</a>
