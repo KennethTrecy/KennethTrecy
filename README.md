@@ -50,19 +50,32 @@ A developer specializing in back-end development and testing. Yet, he can also d
 	</a>
 </div>
 
-### DevOps, QA, Tools, and Collaboration
+### DevOps and QA
+<div align="center">
+	<a href="https://github.com/features/actions">
+		<img title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
+	</a>
+	<a href="https://jestjs.io/">
+		<img title="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
+	</a>
+	<a href="https://www.docker.com/">
+		<img title="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
+	</a>
+	<a href="https://www.digitalocean.com/">
+		<img title="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white">
+	</a>
+	<a href="https://testcafe.io/">
+		<img title="TestCafe" src="https://img.shields.io/badge/TestCafe-36B6E5.svg?style=for-the-badge&logo=TestCafe&logoColor=white">
+	</a>
+</div>
+
+### Tools and Collaboration
 <div align="center">
 	<a href="https://git-scm.com/">
 		<img title="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 	</a>
 	<a href="https://github.com/">
 		<img title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-	</a>
-	<a href="https://github.com/features/actions">
-		<img title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
-	</a>
-	<a href="https://jestjs.io/">
-		<img title="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white">
 	</a>
 	<a href="https://eslint.org/">
 		<img title="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white">
@@ -82,17 +95,8 @@ A developer specializing in back-end development and testing. Yet, he can also d
 	<a href="https://getcomposer.org/">
 		<img title="Composer" src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=Composer&logoColor=white">
 	</a>
-	<a href="https://www.docker.com/">
-		<img title="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
-	</a>
-	<a href="https://www.digitalocean.com/">
-		<img title="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white">
-	</a>
 	<a href="https://gitea.io/en-us/">
 		<img title="Gitea" src="https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white">
-	</a>
-	<a href="https://testcafe.io/">
-		<img title="TestCafe" src="https://img.shields.io/badge/TestCafe-36B6E5.svg?style=for-the-badge&logo=TestCafe&logoColor=white">
 	</a>
 	<a href="https://www.gnupg.org/">
 		<img title="GNU Privacy Guard" src="https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD.svg?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white">
