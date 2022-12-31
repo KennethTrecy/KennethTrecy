@@ -162,17 +162,17 @@ A developer specializing in back-end development and testing. Yet, he can also d
 ## Stats
 <div align="center">
 	<a href="https://git.io/streak-stats">
-		<img src="https://streak-stats.demolab.com?user=KennethTrecy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=1A1B27&currStreakLabel=6C9FF4&ring=628FDA&currStreakNum=628FDA&fire=628FDA"/>
+		<img alt="Steak stat" src="https://streak-stats.demolab.com?user=KennethTrecy&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=1A1B27&currStreakLabel=6C9FF4&ring=628FDA&currStreakNum=628FDA&fire=628FDA"/>
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
+		<img alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
 	</a>
 	<br/>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
+		<img alt="Language stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
 	</a>
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=KennethTrecy&theme=tokyonight&no-frame=true"/>
+		<img alt="Stat trophy" src="https://github-profile-trophy.vercel.app/?username=KennethTrecy&theme=tokyonight&no-frame=true"/>
 	</a>
 </div>
 
