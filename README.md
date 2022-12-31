@@ -178,7 +178,7 @@ A developer specializing in back-end development and testing. Yet, he can also d
 
 ---
 
-<small>The links to badge images were generated from [GitHub Profile Badges] maintained by [Aveek Saha] licensed under [MIT]. The badges are hosted on [Shields.io] and their logos came from [Simple Icons]</small>
+<small>The links to badge images were generated from [GitHub Profile Badges] maintained by [Aveek Saha] licensed under [MIT]. The badges are hosted on [Shields.io] and their logos came from [Simple Icons].</small>
 
 [MIT]: https://github.com/Aveek-Saha/GitHub-Profile-Badges/blob/master/LICENSE
 [GitHub Profile Badges]: https://home.aveek.io/GitHub-Profile-Badges/
