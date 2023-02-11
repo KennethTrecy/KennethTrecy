@@ -87,7 +87,7 @@ A developer specializing in back-end development and testing. Yet, he can also d
 		<img title="rollup.js" src="https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=for-the-badge&logo=rollupdotjs&logoColor=white">
 	</a>
 	<a href="https://vitejs.dev/">
-		<img title="rollup.js" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
+		<img title="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
 	</a>
 	<a href="https://nodemon.io/">
 		<img title="nodemon" src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white">
