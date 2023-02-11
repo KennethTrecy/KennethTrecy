@@ -162,10 +162,10 @@ A developer specializing in back-end development and testing. Yet, he can also d
 ## Stats
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="auto" width="480px" alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
+		<img height="auto" width="510px" alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height="auto" width="350px" alt="Language stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=7"/>
+		<img height="auto" width="325px" alt="Language stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api/top-langs/?username=kennethtrecy&theme=tokyonight&cache_seconds=21600&hide_border=true&layout=compact&langs_count=10"/>
 	</a>
 	<br/>
 	<a href="https://git.io/streak-stats">
