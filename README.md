@@ -25,7 +25,7 @@ A developer specializing in back-end development and testing. Yet, he can also d
 		<img title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white">
 	</a>
 	<a href="https://expressjs.com/">
-		<img title="Node.js" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
+		<img title="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
 	</a>
 	<a href="https://httpd.apache.org/">
 		<img title="Apache HTTP Server" src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white">
