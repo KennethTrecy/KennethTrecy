@@ -17,6 +17,18 @@ A developer specializing in back-end development and testing. Yet, he can also d
 	<a href="https://getbootstrap.com/">
 		<img title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
 	</a>
+	<a href="https://svelte.dev/">
+		<img title="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white">
+	</a>
+	<a href="https://kit.svelte.dev/">
+		<img title="SvelteKit" src="https://img.shields.io/badge/%20-SvelteKit-FF3E00?style=for-the-badge">
+	</a>
+	<a href="https://daisyui.com/">
+		<img title="daisyUI" src="https://img.shields.io/badge/%20-daisyUI-daisyUI?style=for-the-badge">
+	</a>
+	<a href="https://tailwindcss.com/">
+		<img title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+	</a>
 </div>
 
 ### Back-end
