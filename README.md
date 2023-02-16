@@ -2,7 +2,7 @@
 A developer specializing in back-end development and testing. Yet, he can also do front-end work.
 
 ## Experienced Technologies, Frameworks, Libraries, and Languages
-He has experienced several frameworks and tools over time. Check out his page to [learn more about him].
+He had experienced several frameworks and tools over time. Check out his page to [learn more about him].
 
 ## Stats
 <div align="center">
