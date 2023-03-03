@@ -17,3 +17,20 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(stat): update metrics"
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_activity: yes
+          base_indepth: yes
+          repositories_affiliations: owner, collaborator
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_indepth: yes
+          plugin_lines: yes
+          plugin_traffic: yes
