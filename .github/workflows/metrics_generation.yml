@@ -17,6 +17,10 @@ jobs:
           output_action: commit
           committer_branch: main
           committer_message: "chore(stat): update metrics"
+          repositories_skipped: |
+            @use.patterns
+
+            -{lemredd, KhyleAlegre}/*
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_activity: yes
