@@ -52,4 +52,3 @@ jobs:
             - notable
             - calendar
             - isocalendar
-            - base.metadata
