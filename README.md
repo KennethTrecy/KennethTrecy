@@ -6,6 +6,9 @@ He had experienced several frameworks and tools over time. Check out his page to
 
 ## Stats
 <div align="center">
+	<picture>
+		<img src="/github-metrics.svg" alt="Metrics" width="100%"/>
+	</picture>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img height="auto" width="510px" alt="General stat" src="https://github-readme-stats-sigma-ten-24.vercel.app/api?count_private=true&username=kennethtrecy&show_icons=true&theme=tokyonight&cache_seconds=21600&hide_border=true"/>
 	</a>
