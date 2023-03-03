@@ -41,3 +41,15 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_traffic: yes
+          config_order:
+            - base.header
+            - traffic
+            - achievements
+            - followup
+            - activity
+            - languages
+            - lines
+            - notable
+            - calendar
+            - isocalendar
+            - base.metadata
