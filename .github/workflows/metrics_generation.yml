@@ -13,7 +13,7 @@ jobs:
       - uses: KennethTrecy/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_display: columns
+          config_display: regular
           output_action: commit
           committer_branch: main
           committer_message: "chore(stat): update metrics"
