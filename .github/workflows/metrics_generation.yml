@@ -35,4 +35,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_lines: yes
           plugin_lines_sections: base, history
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
           plugin_traffic: yes
