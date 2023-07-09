@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2965" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.margin-lr-auto{margin-left:auto;margin-right:auto}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 81 repositories
+                            Starred 82 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    117 Releases
+                                    118 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    305k added, 160k removed
+                                    308k added, 160k removed
                                 </div>
                             </section>
                             <section>
@@ -519,20 +519,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.48mb of code in 5959 edited files across 4008 commits</small>
+                <small>estimation from 2.49mb of code in 5993 edited files across 4055 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.64764565564047" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="145.64764565564047" y="0" width="68.75006191641067" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="214.39770757205113" y="0" width="40.83454631564769" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="255.23225388769882" y="0" width="28.934255634393374" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.16650952209216" y="0" width="25.57882936706221" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="309.74533888915437" y="0" width="6.5059852530317315" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="316.25132414218615" y="0" width="1.0932917370920578" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="317.3446158792782" y="0" width="142.6553841207218" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.43443778027685" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="145.43443778027685" y="0" width="68.68554500395685" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="214.11998278423368" y="0" width="40.77477022505449" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="254.8947530092882" y="0" width="29.012245407972014" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="283.9069984172602" y="0" width="25.585093090091217" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="309.4920915073514" y="0" width="6.613414066947117" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="316.10550557429855" y="0" width="1.1535604703791635" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="317.2590660446777" y="0" width="142.74093395532233" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -546,7 +546,7 @@
                             <small>
                                 <div>24k lines</div>
                                 <div>728 kB</div>
-                                <div>31.66%</div>
+                                <div>31.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -557,9 +557,9 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>7.66k lines</div>
-                                <div>343 kB</div>
-                                <div>14.95%</div>
+                                <div>7.67k lines</div>
+                                <div>344 kB</div>
+                                <div>14.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -572,7 +572,7 @@
                             <small>
                                 <div>7.15k lines</div>
                                 <div>204 kB</div>
-                                <div>8.88%</div>
+                                <div>8.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -583,9 +583,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6.19k lines</div>
-                                <div>144 kB</div>
-                                <div>6.29%</div>
+                                <div>6.21k lines</div>
+                                <div>145 kB</div>
+                                <div>6.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -597,7 +597,7 @@
                             </div>
                             <small>
                                 <div>4.17k lines</div>
-                                <div>127 kB</div>
+                                <div>128 kB</div>
                                 <div>5.56%</div>
                             </small>
                         </div>
@@ -609,9 +609,9 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>1.38k lines</div>
-                                <div>32.5 kB</div>
-                                <div>1.41%</div>
+                                <div>1.40k lines</div>
+                                <div>33.1 kB</div>
+                                <div>1.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -622,9 +622,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>243 lines</div>
-                                <div>5.47 kB</div>
-                                <div>0.24%</div>
+                                <div>260 lines</div>
+                                <div>5.78 kB</div>
+                                <div>0.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -635,9 +635,9 @@
                                 Other
                             </div>
                             <small>
-                                <div>20.9k lines</div>
-                                <div>713 kB</div>
-                                <div>31.01%</div>
+                                <div>21k lines</div>
+                                <div>715 kB</div>
+                                <div>31.03%</div>
                             </small>
                         </div>
                     </section>
@@ -664,16 +664,95 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#3 Restore lines of code badge</span>
+                                        Pushed 59 commits in
+                                        <span class="repo">KennethTrecy/metrics</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">KennethTrecy/origenne_template</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#10885a1</div>
+                                        <div class="message">chore: generate test cases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05e244b</div>
+                                        <div class="message">fix(plugins/traffic): display scope errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9416839</div>
+                                        <div class="message">feat(plugins/community/16personalities): add plugin (#1402) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41db331</div>
+                                        <div class="message">fix(plugins/steam): placeholder and extra log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66e943d</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/lowlighter/metrics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#013b2cb</div>
+                                        <div class="message">chore(plugins/community/splatoon): upgrade s3si to v2 (#1401) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b85fa23</div>
+                                        <div class="message">feat(plugins/steam): add plugin (#1400) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e46761b</div>
+                                        <div class="message">chore: update package-lock.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7870932</div>
+                                        <div class="message">chore: code formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#522b7e7</div>
+                                        <div class="message">fix: add npx to dictionnary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb5bc6c</div>
+                                        <div class="message">chore: update dprint config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cb466a</div>
+                                        <div class="message">chore(deps): upgrade dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d4211</div>
+                                        <div class="message">fix: ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5244e9</div>
+                                        <div class="message">fix: ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2bf05a</div>
+                                        <div class="message">fix(ci): missing cache path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c6742</div>
+                                        <div class="message">chore(deps): bump minimatch from 6.0.4 to 6.1.6 (#1389) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcd18ed</div>
+                                        <div class="message">chore(deps): bump @primer/octicons from 18.0.0 to 18.2.0 (#1399) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#954ab19</div>
+                                        <div class="message">chore(deps): bump jest from 29.3.1 to 29.5.0 (#1394) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#865ad14</div>
+                                        <div class="message">chore(deps): bump @primer/octicons from 17.10.2 to 18.0.0 (#1393) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfefe35</div>
+                                        <div class="message">chore(deps): bump eslint from 8.32.0 to 8.35.0 (#1387) [skip ci]</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -681,16 +760,127 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#3 Restore lines of code badge</span>
+                                        Pushed 59 commits in
+                                        <span class="repo">KennethTrecy/metrics</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by KennethTrecy in <span class="repo">KennethTrecy/origenne_template</span></div>
-                                    <div class="comment">The API is not available. Completely removing it now. It may be restored when an alternative has been found, or it becomes available most of the time.</div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#10885a1</div>
+                                        <div class="message">chore: generate test cases</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05e244b</div>
+                                        <div class="message">fix(plugins/traffic): display scope errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9416839</div>
+                                        <div class="message">feat(plugins/community/16personalities): add plugin (#1402) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41db331</div>
+                                        <div class="message">fix(plugins/steam): placeholder and extra log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66e943d</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/lowlighter/metrics</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#013b2cb</div>
+                                        <div class="message">chore(plugins/community/splatoon): upgrade s3si to v2 (#1401) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b85fa23</div>
+                                        <div class="message">feat(plugins/steam): add plugin (#1400) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e46761b</div>
+                                        <div class="message">chore: update package-lock.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7870932</div>
+                                        <div class="message">chore: code formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#522b7e7</div>
+                                        <div class="message">fix: add npx to dictionnary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb5bc6c</div>
+                                        <div class="message">chore: update dprint config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cb466a</div>
+                                        <div class="message">chore(deps): upgrade dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22d4211</div>
+                                        <div class="message">fix: ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5244e9</div>
+                                        <div class="message">fix: ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2bf05a</div>
+                                        <div class="message">fix(ci): missing cache path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c6742</div>
+                                        <div class="message">chore(deps): bump minimatch from 6.0.4 to 6.1.6 (#1389) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcd18ed</div>
+                                        <div class="message">chore(deps): bump @primer/octicons from 18.0.0 to 18.2.0 (#1399) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#954ab19</div>
+                                        <div class="message">chore(deps): bump jest from 29.3.1 to 29.5.0 (#1394) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#865ad14</div>
+                                        <div class="message">chore(deps): bump @primer/octicons from 17.10.2 to 18.0.0 (#1393) [skip ci]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfefe35</div>
+                                        <div class="message">chore(deps): bump eslint from 8.32.0 to 8.35.0 (#1387) [skip ci]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">KennethTrecy/web_template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#908efaf</div>
+                                        <div class="message">chore(master): remove branch-specific configuration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50bb2b3</div>
+                                        <div class="message">Merge branch 'sass'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1951bdf</div>
+                                        <div class="message">Merge branch 'sass' of .. into sass</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#338ef1e</div>
+                                        <div class="message">chore(sass): configure special files</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -702,9 +892,9 @@
                                     </svg>
                                     <div class="content">
                                         Released
-                                        <span class="bold">Automted Cover (v0.4.8)</span>
+                                        <span class="bold">Trimmed Tree (v0.4.3)</span>
                                         of
-                                        <span class="repo">KennethTrecy/feo_template</span>
+                                        <span class="repo">KennethTrecy/web_template</span>
                                     </div>
                                 </div>
                             </section>
@@ -718,29 +908,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.4.8-feo_template</span>
+                                        <span class="code">v0.4.3-web_template</span>
                                         in
-                                        <span class="repo">KennethTrecy/feo_template</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">KennethTrecy/feo_template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">empty_toml</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#47dcd7f</div>
-                                        <div class="message">Merge branch 'initial' into empty_toml</div>
+                                        <span class="repo">KennethTrecy/web_template</span>
                                     </div>
                                 </div>
                             </section>
@@ -760,31 +930,31 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(72.04285714285714,0)">
+                            <g class="tick" opacity="1" transform="translate(70.99308755760369,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(129.4714285714286,0)">
+                            <g class="tick" opacity="1" transform="translate(126.56912442396313,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(188.81428571428572,0)">
+                            <g class="tick" opacity="1" transform="translate(183.99769585253455,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(248.15714285714287,0)">
+                            <g class="tick" opacity="1" transform="translate(241.426267281106,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(305.5857142857143,0)">
+                            <g class="tick" opacity="1" transform="translate(297.00230414746545,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(364.92857142857144,0)">
+                            <g class="tick" opacity="1" transform="translate(354.4308755760369,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(422.35714285714283,0)">
+                            <g class="tick" opacity="1" transform="translate(410.0069124423963,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
@@ -820,8 +990,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L52.400000000000006,140.5L65.8,140.5L79.2,140.5L92.6,140.5L106,140.5L119.4,140.5L132.8,140.5L146.2,140.5L159.59999999999997,140.5L173,140.5L186.39999999999998,140.5L199.8,140.5L213.2,140.5L226.60000000000002,140.5L240,140.5L253.39999999999998,140.5L266.8,140.5L280.2,140.5L293.6,140.5L307,140.5L320.4,140.5L333.79999999999995,140.5L347.20000000000005,140.5L360.6,140.5L374,140.5L387.4,140.5L400.8,140.5L414.20000000000005,140.5L427.6,140.5L441,140.5L441,137.46475896012115L427.6,125.21692011610297L414.20000000000005,134.02339411913175L400.8,110.37416393235739L387.4,91.5770444220091L374,5L360.6,81.82579820797577L347.20000000000005,100.3236686017163L333.79999999999995,91.07259591115599L320.4,69.79170873296314L307,104.25665699141847L293.6,100.34076855123674L280.2,94.8687847046946L266.8,67.92353924785462L253.39999999999998,110.93846226653206L240,114.49097677940433L226.60000000000002,89.70887493690057L213.2,97.42095217062092L199.8,79.93625378596667L186.39999999999998,45.01388187783948L173,88.40500378596667L159.59999999999997,90.53394750126198L146.2,124.84072122665319L132.8,137.64858341746591L119.4,121.01888250883393L106,74.17357079757697L92.6,85.1560133770823L79.2,112.16110865724382L65.8,116.89351968702675L52.400000000000006,121.67723056537102L39,125.57174406865221Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L52.400000000000006,140.5L65.8,140.5L79.2,140.5L92.6,140.5L106,140.5L119.4,140.5L132.8,140.5L146.2,140.5L159.59999999999997,140.5L173,140.5L186.39999999999998,140.5L199.8,140.5L213.2,140.5L226.60000000000002,140.5L240,140.5L253.39999999999998,140.5L266.8,140.5L280.2,140.5L293.6,140.5L307,140.5L320.4,140.5L333.79999999999995,140.5L347.20000000000005,140.5L360.6,140.5L374,140.5L387.4,140.5L400.8,140.5L414.20000000000005,140.5L427.6,140.5L441,140.5L441,142.30404467440687L427.6,159.10047009086318L414.20000000000005,145.62998485613326L400.8,168.5781171125694L387.4,161.75523725391218L374,169.4630395002524L360.6,166.5261231701161L347.20000000000005,161.94761168601713L333.79999999999995,163.87563099444725L320.4,165.10255237253915L307,153.49596163553758L293.6,167.01774671882887L280.2,161.86638692579504L266.8,195.81833669863707L253.39999999999998,156.31317831903078L240,152.8675384906613L226.60000000000002,166.12427435638565L213.2,163.0377334679455L199.8,186.1782401564866L186.39999999999998,212.42666267036853L173,165.75662544169612L159.59999999999997,162.05876135790004L146.2,149.65274798081774L132.8,141.62859666834933L119.4,150.084521706209L106,163.51653205451794L92.6,176.94426741544672L79.2,157.64697438162545L65.8,156.49272778899547L52.400000000000006,150.6103451539626L39,147.84442831903078Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L51.96774193548387,140.5L64.93548387096774,140.5L77.90322580645162,140.5L90.87096774193549,140.5L103.83870967741936,140.5L116.80645161290323,140.5L129.7741935483871,140.5L142.74193548387098,140.5L155.70967741935485,140.5L168.67741935483872,140.5L181.6451612903226,140.5L194.61290322580646,140.5L207.5806451612903,140.5L220.54838709677418,140.5L233.51612903225808,140.5L246.48387096774192,140.5L259.4516129032258,140.5L272.4193548387097,140.5L285.3870967741936,140.5L298.3548387096774,140.5L311.3225806451613,140.5L324.2903225806452,140.5L337.258064516129,140.5L350.2258064516129,140.5L363.19354838709677,140.5L376.16129032258067,140.5L389.12903225806457,140.5L402.09677419354836,140.5L415.0645161290322,140.5L428.03225806451616,140.5L441,140.5L441,128.02986181221604L428.03225806451616,137.46475896012115L415.0645161290322,125.21692011610297L402.09677419354836,134.02339411913175L389.12903225806457,110.37416393235739L376.16129032258067,91.5770444220091L363.19354838709677,5L350.2258064516129,81.82579820797577L337.258064516129,100.3236686017163L324.2903225806452,91.07259591115599L311.3225806451613,69.79170873296314L298.3548387096774,104.25665699141847L285.3870967741936,100.34076855123674L272.4193548387097,94.8687847046946L259.4516129032258,67.92353924785462L246.48387096774192,110.93846226653206L233.51612903225808,114.49097677940433L220.54838709677418,89.70887493690057L207.5806451612903,97.42095217062092L194.61290322580646,79.93625378596667L181.6451612903226,45.01388187783948L168.67741935483872,88.40500378596667L155.70967741935485,90.53394750126198L142.74193548387098,124.84072122665319L129.7741935483871,137.64858341746591L116.80645161290323,121.01888250883393L103.83870967741936,74.17357079757697L90.87096774193549,85.1560133770823L77.90322580645162,112.16110865724382L64.93548387096774,116.89351968702675L51.96774193548387,121.67723056537102L39,125.57174406865221Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L51.96774193548387,140.5L64.93548387096774,140.5L77.90322580645162,140.5L90.87096774193549,140.5L103.83870967741936,140.5L116.80645161290323,140.5L129.7741935483871,140.5L142.74193548387098,140.5L155.70967741935485,140.5L168.67741935483872,140.5L181.6451612903226,140.5L194.61290322580646,140.5L207.5806451612903,140.5L220.54838709677418,140.5L233.51612903225808,140.5L246.48387096774192,140.5L259.4516129032258,140.5L272.4193548387097,140.5L285.3870967741936,140.5L298.3548387096774,140.5L311.3225806451613,140.5L324.2903225806452,140.5L337.258064516129,140.5L350.2258064516129,140.5L363.19354838709677,140.5L376.16129032258067,140.5L389.12903225806457,140.5L402.09677419354836,140.5L415.0645161290322,140.5L428.03225806451616,140.5L441,140.5L441,140.807799091368L428.03225806451616,142.30404467440687L415.0645161290322,159.10047009086318L402.09677419354836,145.62998485613326L389.12903225806457,168.5781171125694L376.16129032258067,161.75523725391218L363.19354838709677,169.4630395002524L350.2258064516129,166.5261231701161L337.258064516129,161.94761168601713L324.2903225806452,163.87563099444725L311.3225806451613,165.10255237253915L298.3548387096774,153.49596163553758L285.3870967741936,167.01774671882887L272.4193548387097,161.86638692579504L259.4516129032258,195.81833669863707L246.48387096774192,156.31317831903078L233.51612903225808,152.8675384906613L220.54838709677418,166.12427435638565L207.5806451612903,163.0377334679455L194.61290322580646,186.1782401564866L181.6451612903226,212.42666267036853L168.67741935483872,165.75662544169612L155.70967741935485,162.05876135790004L142.74193548387098,149.65274798081774L129.7741935483871,141.62859666834933L116.80645161290323,150.084521706209L103.83870967741936,163.51653205451794L90.87096774193549,176.94426741544672L77.90322580645162,157.64697438162545L64.93548387096774,156.49272778899547L51.96774193548387,150.6103451539626L39,147.84442831903078Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -3589,7 +3759,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2023, 07:37:47  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Jul 2023, 14:58:34  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
