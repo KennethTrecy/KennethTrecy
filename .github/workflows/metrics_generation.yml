@@ -24,8 +24,6 @@ jobs:
           repositories: 100
           repositories_forks: no
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
@@ -43,4 +41,4 @@ jobs:
           plugin_lines_sections: base, history
           plugin_lines_history_limit: 2
           plugin_traffic: yes
-          config_order: base.header, introduction, base.activity+community, base.repositories, achievements, followup, languages, lines, isocalendar, calendar
+          config_order: base.header, introduction, base.activity+community, base.repositories, achievements, followup, languages, lines, isocalendar
