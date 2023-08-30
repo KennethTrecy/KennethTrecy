@@ -21,7 +21,7 @@ jobs:
           delay: 10
           base_indepth: yes
           commits_authoring: KennethTrecy, 19201.tobias.kennethtrecy.c@gmail.com, web.kennethtobias@gmail.com, 33564322+KennethTrecy@users.noreply.github.com
-          repositories: 200
+          repositories: 100
           repositories_forks: no
           repositories_affiliations: owner, collaborator, organization_member
           plugin_calendar: yes
