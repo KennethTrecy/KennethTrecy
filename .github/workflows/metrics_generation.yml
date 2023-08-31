@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: KennethTrecy/metrics@latest
+      - uses: KennethTrecy/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: regular
