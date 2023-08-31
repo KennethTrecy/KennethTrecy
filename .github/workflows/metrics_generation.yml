@@ -17,6 +17,7 @@ jobs:
           committer_branch: main
           committer_message: "chore(stat): update metrics"
           plugin_achievements: yes
+          plugin_achievements_secrets: yes
           delay: 50
           base_indepth: no
           commits_authoring: KennethTrecy, 19201.tobias.kennethtrecy.c@gmail.com, web.kennethtobias@gmail.com, 33564322+KennethTrecy@users.noreply.github.com
